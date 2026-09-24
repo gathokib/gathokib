@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=475&height=44&lines=Azure%20Cloud%20%26%20DevOps%20Engineer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=475&height=44&lines=AWS%20Cloud%20%26%20DevOps%20Engineer" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
